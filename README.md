@@ -16,8 +16,8 @@ Who this repository is for?
 
 ## Installation
 
-- [Install Python3] (https://www.python.org/downloads/)
-- [Install Visual Studio Code] (https://code.visualstudio.com/) 
+- [Install Python3](https://www.python.org/downloads/)
+- [Install Visual Studio Code](https://code.visualstudio.com/) 
 - Install Python extension & Code Runner for VS Code from the Visual Studio Marketplace    
 ## Structure of the repository
 - Intro
